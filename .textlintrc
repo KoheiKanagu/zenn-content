@@ -8,6 +8,7 @@
   "rules": {
     "preset-ja-technical-writing": true,
     "preset-jtf-style": true,
-    "preset-ja-spacing": true
+    "preset-ja-spacing": true,
+    "ja-technical-writing/sentence-length": false
   }
 }
