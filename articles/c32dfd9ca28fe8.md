@@ -129,4 +129,4 @@ firebase deploy
 これでめでたくBasic認証かけられた。
 静的なページはもちろん、Flutter WebなどのSPAでも問題ない。
 
-が、これって毎回Cloud Functions叩く事になるので遅いし、Cloud Functionsの実行コストもかかるので実用的かと言われると...
+が、これって毎回Cloud Functions叩く事になるので遅いし、Cloud Functionsの実行コストもかかるので実用的かと言われると
