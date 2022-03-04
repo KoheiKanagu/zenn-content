@@ -1,5 +1,4 @@
-#!/bin/bash -euxo pipefail
-WORKDIR=$(pwd)
-cd "$(dirname "$0")"
+#!/bin/bash
+set -euxo pipefail
 
 textlint --fix articles/*.md
