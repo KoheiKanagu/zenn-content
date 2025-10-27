@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.2.4"
+    "zenn-cli": "^0.2.8"
   },
   "devDependencies": {
     "textlint": "^15.2.3",
